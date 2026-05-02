@@ -5,14 +5,18 @@ AarthFlow is a high-fidelity B2B fintech platform designed to help Indian SMEs b
 
 ---
 
-## 🔗 Important Links
+## 🔗 Project Submission Links
 
-*   **🎨 [Figma Design Prototype](https://www.figma.com/proto/fUfE3lQEQJ6YcYi45y34Qi/Untitled?node-id=0-1&t=UK1ZYtUfW9CVYkuU-1)**
-*   **🚀 [Live Deployed Project](https://aarthflow.vercel.app)** *(Placeholder)*
-*   **📂 [Postman API Collection (JSON)](./AarthFlow_Postman_Collection.json)** - *Import this into Postman for documentation*
-*   **📂 [Postman Web Documentation](https://documenter.getpostman.com/view/...)** *(Placeholder)*
-*   **⚙️ [Backend Deployed Link](https://api.aarthflow.com)** *(Placeholder)*
-*   **📺 [YouTube Demo Video](https://youtube.com/...)** *(Placeholder)*
+| Field | Link |
+| :--- | :--- |
+| 👨‍💻 **Developer** | Prince Nayakpara |
+| 📧 **Email** | princepatel27507@gmail.com |
+| 🎓 **GR Number** | 108692 |
+| 🚀 **Live Deployed Project** | [frontend-six-chi-25.vercel.app](https://frontend-six-chi-25.vercel.app/) |
+| 📺 **YouTube Demo Video** | *(Add your YouTube demo link here)* |
+| 🎨 **Figma Design Prototype** | [View Figma Design](https://www.figma.com/proto/fUfE3lQEQJ6YcYi45y34Qi/Untitled?node-id=3-2&t=KaXFv4XrpfQQqE2m-1&starting-point-node-id=3%3A2) |
+| 📬 **Postman API Documentation** | [View API Docs](https://documenter.getpostman.com/view/50464127/2sBXqKofEV) |
+| ⚙️ **Backend API** | [api.aarthflow.com](https://api.aarthflow.com) |
 
 ---
 
@@ -63,7 +67,7 @@ AarthFlow provides an **Institutional Treasury Interface** for SME founders and 
 
 ---
 
-## 📂 Proper Folder Structure
+## 📂 Folder Structure
 
 ```text
 aarthFlow/
@@ -92,17 +96,14 @@ aarthFlow/
 
 ## 📸 Project Screenshots
 
-> [!TIP]
-> *Replace these placeholders with actual screenshots from your project.*
+### 1. Institutional Dashboard
+![Institutional Dashboard](./screenshot_dashboard.png)
 
-### 1. Landing Page (Light/Dark Dynamic)
-![Landing Page Placeholder](/path/to/landing_screenshot.png)
+### 2. Invoice Management
+![Invoice Management](./screenshot_invoices.png)
 
-### 2. Institutional Dashboard
-![Dashboard Placeholder](/path/to/dashboard_screenshot.png)
-
-### 3. Invoice Management
-![Invoice List Placeholder](/path/to/invoice_list_screenshot.png)
+### 3. Landing Page
+![Landing Page](./screenshot_landing.png)
 
 ---
 
